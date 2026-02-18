@@ -1,0 +1,4 @@
+INFO:root:Received input: Evaluate the risk of this customer transaction
+INFO:root:Output: {'risk_score': 0.5, 'reasoning': 'Mocked reasoning for: Evaluate the risk of this customer transaction', 'confidence': 0.9}
+INFO:root:Received input: Evaluate the risk of this customer transaction
+INFO:root:Output: {'risk_score': 0.5, 'reasoning': 'Mocked reasoning for: Evaluate the risk of this customer transaction', 'confidence': 0.9}
